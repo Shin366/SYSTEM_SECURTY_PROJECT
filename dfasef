@@ -1,0 +1,89 @@
+* [33mcommit a7b27b183844eaf3c2e6c43fb8985bc5b1b5fd61[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: 김민형 <ckbn1002@gmail.com>
+[31m|[m Date:   Mon Nov 11 16:17:39 2024 +0900
+[31m|[m 
+[31m|[m     데이터 중복 버그 수정
+[31m|[m 
+* [33mcommit 388a5dd42337459e90903e4d18e3fd174256a911[m
+[31m|[m Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Sat Nov 9 22:02:16 2024 +0900
+[31m|[m 
+[31m|[m     코드 정리 & 결과창 UI 수정
+[31m|[m 
+* [33mcommit 2e2d7e632c097cce29da2dcd8d7f39767914fd36[m
+[31m|[m Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Wed Nov 6 20:48:52 2024 +0900
+[31m|[m 
+[31m|[m     git commit 정상화
+[31m|[m 
+* [33mcommit 74cfb2235a851d3e15d0b9b1395df2d3ca35e069[m
+[31m|[m Author: Danmark-Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Wed Nov 6 11:22:35 2024 +0900
+[31m|[m 
+[31m|[m     알러지 선택 xml 수정 및 알러지 비교 기능 추가(미완)
+[31m|[m 
+* [33mcommit d8fff4f3369c0d7a0055f4444b14f518671344b9[m
+[31m|[m Author: MINHYOUNG <ckbn1002@gmail.com>
+[31m|[m Date:   Sun Nov 3 13:38:44 2024 +0900
+[31m|[m 
+[31m|[m     알러지 선택 xml 수정 및 알러지 비교 기눙 추가(미완)
+[31m|[m 
+* [33mcommit f2c9e90ddfd56b8507287489012226c23ea7915c[m
+[31m|[m Author: minhyoung <125957064+supercoder946@users.noreply.github.com>
+[31m|[m Date:   Fri Sep 13 11:15:14 2024 +0900
+[31m|[m 
+[31m|[m     Initial commit
+[31m|[m 
+* [33mcommit f5e08c08131771e1d49d53f3304b06960c18fc9d[m
+[31m|[m Author: Danmark-Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Tue Oct 29 18:10:33 2024 +0900
+[31m|[m 
+[31m|[m     사용자 알러지 DB와 제품 DB(임시로 랜덤 Boolean 3개 생성)을 비교하는 코드 추가
+[31m|[m 
+* [33mcommit 82b42c65d2273c6fb7c0b5deb4f40f7a89cd2032[m
+[31m|[m Author: Danmark-Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Tue Oct 29 16:43:37 2024 +0900
+[31m|[m 
+[31m|[m     사용자 allergy정보 저장용 Room DB 생성
+[31m|[m 
+* [33mcommit 808782a575dcf124c4b901daf00571dd64da0049[m
+[31m|[m Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Mon Sep 30 16:04:24 2024 +0900
+[31m|[m 
+[31m|[m     OCR 검색 결과를 searchItem으로 보내서 DB검색 준비
+[31m|[m 
+* [33mcommit 8599cce91845a71399601b1a4fcfdaada4fb14b7[m
+[31m|[m Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Wed Sep 25 02:39:49 2024 +0900
+[31m|[m 
+[31m|[m     CameraX ImageProxy를 이용해 ML kit OCR 구현
+[31m|[m 
+* [33mcommit 737d5e68be56f3f34c4c57e374b17c16fd0130c5[m
+[31m|[m Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Wed Sep 25 02:39:24 2024 +0900
+[31m|[m 
+[31m|[m     CameraX ImageProxy를 이용해 ML kit OCR 구현
+[31m|[m 
+* [33mcommit 0d579fc5e9cb7aa99c635ada573c94355a64882e[m
+[31m|[m Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+[31m|[m Date:   Thu Sep 19 11:15:32 2024 +0900
+[31m|[m 
+[31m|[m     .
+[31m|[m 
+* [33mcommit 0b76e1384d76f84b4fec584f02595b7075532547[m
+  Author: Danmark_Jajang <54851789+Danmark-Jajang@users.noreply.github.com>
+  Date:   Thu Sep 19 11:11:34 2024 +0900
+  
+      .
+  
+* [33mcommit 9e70135ea5a12e70a54c4bdd84bbbd10261ec638[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: MINHYOUNG <ckbn1002@gmail.com>
+[32m|[m Date:   Sun Nov 3 13:38:44 2024 +0900
+[32m|[m 
+[32m|[m     DB완성
+[32m|[m 
+* [33mcommit 285e10b2c42bee302a052cca61ae9b3e3ff51ae9[m
+  Author: minhyoung <125957064+supercoder946@users.noreply.github.com>
+  Date:   Fri Sep 13 11:15:14 2024 +0900
+  
+      Initial commit
