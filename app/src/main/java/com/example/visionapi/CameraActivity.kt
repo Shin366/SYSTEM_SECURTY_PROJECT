@@ -186,20 +186,12 @@ class CameraActivity : AppCompatActivity() {
                     Toast.makeText(this, "Analyse Success", Toast.LENGTH_SHORT).show()
                     val resultText = result.text
                     for (block in result.textBlocks) {
-                        val blockText = block.text
-                        val blockCornerPoints = block.cornerPoints
-                        val blockFrame = block.boundingBox
                         for (line in block.lines) {
                             var lineText = line.text
                             lineText = lineText.replace("[^\\w+]".toRegex(), "")
                             data.add(lineText.toString())
                             val lineCornerPoints = line.cornerPoints
                             val lineFrame = line.boundingBox
-                            for (element in line.elements) {
-                                val elementText = element.text
-                                val elementCornerPoints = element.cornerPoints
-                                val elementFrame = element.boundingBox
-                            }
                         }
                     }
                     rv.adapter?.notifyDataSetChanged()
